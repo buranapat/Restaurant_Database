@@ -2,28 +2,23 @@
 /*
 Design Table
 Fact Table
-  - Order
-    -Order ID # Primary key
-    -Transaction ID # FK
-    -menu #FK
-    -quantities 
-Dimension Table
   - Transaction
     - Transaction ID #Primary key
     - Transaction Date
     - Customer ID  # FK
     - Serviceman ID # FK
     - Channel # FK
-  - Menu
-    -Menu ID  #Primary key
-    -Menu name 
-    -Type (orderve,meat,dessert)
-    -Price
   - Order
     -Order ID # Primary key
     -Transaction ID # FK
     -menu #FK
     -quantities 
+Dimension Table
+  - Menu
+    -Menu ID  #Primary key
+    -Menu name 
+    -Type (orderve,meat,dessert)
+    -Price
   - Customer
     -Customer ID #Primary key
     -Name 

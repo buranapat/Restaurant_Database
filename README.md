@@ -11,3 +11,8 @@
 # Design Database
 ![image](https://user-images.githubusercontent.com/111285368/189057537-8b8dfc9c-8dfd-4e00-b4f5-69f4db103ab2.png)
 
+# Result
+https://replit.com/@buranaphattas/OnerlookedDetailedField#main.sql
+---
+<h2><div align="center">Thank you (づ￣ 3￣)づ</div></h2>
+
